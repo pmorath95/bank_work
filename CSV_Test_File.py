@@ -57,6 +57,7 @@ with open('/home/pat/Documents/Bank History.CSV','rb') as csvfile: #opens the cs
 		#row[count][6] = date
 		#writer.writerow(row)
 	csvfile.close()
+	#Let's see if this works
 		#print(date)
 	#writecsv = csv.writer(csvfile)
 	#writecsv.writerow(date)
